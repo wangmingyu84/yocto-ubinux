@@ -1,4 +1,4 @@
-# 1. Introduction
+asli;gqierng';pasv# 1. Introduction
 ***
 Like RHEL, Fedora and Ubuntu, ubinux is a solution of embedded platform operating system（including mass storage，small printers and scanners） based on Linux distribution.
 
